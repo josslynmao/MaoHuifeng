@@ -1,0 +1,39 @@
+@font-face
+{
+font-family: WireOne;
+src: url('../font/WireOne.ttf');
+}
+body{
+	background-color: black;
+}
+#container{
+	font-family: WireOne;
+	font-size: 23px;
+	color:white;
+}
+
+#header{
+	padding:10px 50px 10px 20px;
+	text-align: right;
+}
+
+#content{
+	padding: 120px;
+	display: flex;
+	justify-content:center;
+}
+
+#footer{
+	text-align: center;
+}
+
+.logo{
+	width: 250px;
+	height: 250px;
+	margin: 30px;
+}
+
+.button{
+	text-align: center;
+	border: 2px solid white;
+}
