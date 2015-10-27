@@ -3,32 +3,29 @@
 font-family: WireOne;
 src: url('../font/WireOne.ttf');
 }
+
 body{
 	background-color: black;
-}
-
-a{
-	text-decoration: none;
 	color:white;
-}
-
-#container{
 	font-family: WireOne;
 	font-size: 23px;
-	color:white;
+}
+
+#banner{
+	font-size: 50px;
 }
 
 #header{
 	padding:10px 50px 10px 20px;
-	font-size: 25px;
+	font-size: 23px;
 	text-align: right;
 }
 
 #content{
-	padding-top: 100px;
-	padding-bottom: 100px;
 	display: flex;
 	justify-content:center;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 #footer{
@@ -36,19 +33,26 @@ a{
 	font-size:20px; 
 }
 
-
-
-.logo{
-	width: 280px;
-	height: 280px;
-	margin-top: 30px;
-	margin-bottom: 40px;
+a{
+	text-decoration: none;
+	color:white;
 }
 
-.button{
-	margin:0px 50px 0px 50px;
-	padding:5px 0px 5px 0px;
+li{
+	list-style: none;
+	font-family: 
+}
+
+.list{
+	color:white;
+	margin-right: 50px;
+}
+
+.placeholder{
+	width:300px;
+	height:300px;
+}
+
+.description{
 	text-align: center;
-	border: 2px solid white;
-	font-size: 20px;
 }
