@@ -21,12 +21,13 @@ a.underline:hover{
 }
 
 #banner{
-	font-size: 50px;
-	margin-left: 30px;
+	font-size: 56px;
+	padding: 15px 30px;
+	margin-bottom: 5px;
 }
 
 #header{
-	padding:10px 50px 10px 20px;
+	padding: 10px 50px 10px 20px;
 	font-size: 23px;
 	text-align: right;
 }
