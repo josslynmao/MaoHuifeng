@@ -55,8 +55,8 @@ a.underline:hover{
 }
 
 .sentence{
-	padding:100px;
-	width: 60px;
+	padding:70px;
+	width: 90px;
 	margin-left: 100px;
 	word-wrap:break-word;
 	display: flex;
