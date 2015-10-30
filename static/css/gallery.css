@@ -5,8 +5,8 @@ src: url('../font/WireOne.ttf');
 }
 
 body{
-	background-color: black;
-	color:white;
+	background-color: white;
+	color:black;
 	font-family: WireOne;
 	font-size: 23px;
 }
