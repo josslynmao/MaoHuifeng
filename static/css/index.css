@@ -22,18 +22,18 @@ a{
 	margin-bottom: 5px;
 }
 
-#container{
-
-}
-
 #header{
 	padding: 10px 50px 10px 20px;
 	font-size: 23px;
 	text-align: right;
 }
 
+#container{
+
+}
+
 #content{
-	margin-top: 150px;
+	margin-top: 130px;
 	margin-bottom: 200px;
 	display: flex;
 	justify-content: center;

@@ -44,21 +44,21 @@ a.underline:hover{
 	font-size: 18px; 
 }
 
-li{
-	list-style: none;
-}
-
 .list{
 	font-size: 20px;
-	margin-right: 50px;
 	line-height: 30px;
+	height: 350px;
+	border: 2px solid black;
+	padding: 40px 60px;
+	margin-top: 20px;
+	margin-right: 50px;
 }
 
-.placeholder{
-	width:300px;
-	height:300px;
-}
-
-.description{
-	text-align: center;
+.sentence{
+	padding:100px;
+	width: 60px;
+	margin-left: 100px;
+	word-wrap:break-word;
+	display: flex;
+	justify-content: space-between;
 }
