@@ -60,7 +60,7 @@ a{
 	border-right: 50px solid transparent;
 	border-bottom: 86.61px solid black;
 
-	transition:2s;
+	transition:3s;
 }
 
 .underline{
@@ -68,11 +68,11 @@ a{
 	transition: 1s;
 }
 
-div.triangleUp:hover {
-	transform:rotateY(360deg);
-	-moz-transform:rotateY(360deg); /* Firefox 4 */
-	-webkit-transform:rotateY(360deg); /* Safari and Chrome */
-	-o-transform:rotateY(360deg); /* Opera */
+div.triangleUp:hover{
+	transform:rotateY(720deg);
+	-moz-transform:rotateY(720deg); /* Firefox 4 */
+	-webkit-transform:rotateY(720deg); /* Safari and Chrome */
+	-o-transform:rotateY(720deg); /* Opera */
 }
 
 a.underline:hover{
