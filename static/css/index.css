@@ -5,7 +5,9 @@
 }
 
 body{
-	background-color: white;
+	background-image:url('../img/paper.jpg'); 
+	background-size: 640px 400px;
+	background-repeat: repeat;
 	color:black;
 	font-family: Beauty;
 	font-size: 23px;
