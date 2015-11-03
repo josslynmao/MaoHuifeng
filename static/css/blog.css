@@ -51,10 +51,10 @@ a.underline:hover{
 	line-height: 30px;
 	height: 350px;
 	width: 450px;
-	border: 2px solid black;
 	padding: 40px 40px;
 	margin-top: 20px;
 	margin-right: 50px;
+	background-image: url('../img/letter.svg');
 }
 
 .sentence{

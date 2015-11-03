@@ -48,11 +48,12 @@ a.underline:hover{
 .list{
 	font-size: 20px;
 	line-height: 30px;
-	width: 450px;
-	border: 2px solid black;
+	width: 430px;
 	padding: 40px 40px;
 	margin-top: 20px;
 	margin-right: 50px;
+	background-image: url('../img/longletter.svg');
+	background-repeat: no-repeat;
 }
 
 .sentence{
