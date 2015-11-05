@@ -38,7 +38,8 @@ a{
 	margin-top: 130px;
 	margin-bottom: 200px;
 	display: flex;
-	justify-content: center;
+	display: -webkit-flex;
+	-webkit-justify-content: center;
 }
 
 #footer{
