@@ -42,8 +42,7 @@ a.underline:hover{
 #content{
 	display: flex;
 	display: -webkit-flex;
-	justify-content:center;
-	-webkit-justify-content:center;
+	margin-left: 100px;
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
@@ -69,6 +68,7 @@ a.underline:hover{
 	margin-top: 20px;
 	margin-right: 50px;
 	background-image: url('../img/longletter.svg');
+
 	background-repeat: no-repeat;
 }
 
