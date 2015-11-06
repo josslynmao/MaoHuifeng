@@ -4,6 +4,12 @@
 	src: url('../font/字酷堂清楷体.ttf');
 }
 
+@font-face
+{
+	font-family: Leaf;
+	src: url('../font/庞中华简体.ttf');
+}
+
 body{
 	background-image:url('../img/paper.jpg'); 
 	background-size: 640px 400px;
@@ -48,6 +54,7 @@ a.underline:hover{
 }
 
 .list{
+	font-family: Leaf;
 	font-size: 20px;
 	line-height: 30px;
 	width: 430px;
